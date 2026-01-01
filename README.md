@@ -12,9 +12,9 @@ Raw GNSS data availability in Android (since 2016) unlocked new possibilities fo
 This project aims to bridge the gap between low-cost hardware and high-precision requirements. We designed a tool to process **Android Raw GNSS observations** enhanced with **DGNSS (Differential GNSS) corrections** obtained from the **TUSAGA-Aktif** (Turkey National Fixed GNSS Network) CORS network.
 
 The resulting tool targets critical sectors including:
- **Cartography & GIS**
- **Precision Agriculture**
- **Autonomous Navigation**
+* **Cartography & GIS**
+* **Precision Agriculture**
+* **Autonomous Navigation**
 
 ---
 
